@@ -1,6 +1,6 @@
 # 🍊 Citrus Plant Disease Detection using CNN
 
-This is a mini-project developed by **Shlok Salunke** that detects various citrus leaf diseases using Convolutional Neural Networks (CNN) with TensorFlow/Keras.
+This is a mini-project developed by **Lokesh Chaudhari** that detects various citrus leaf diseases using Convolutional Neural Networks (CNN) with TensorFlow/Keras.
 
 ## 🧪 Objective
 
